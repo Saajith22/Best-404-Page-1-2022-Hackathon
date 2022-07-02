@@ -12,9 +12,3 @@
 **PROJECT PRIZE**
 
 You will get your name listed in the repository as the winner, and you will also get your tag pinged with a everyone ping with your GitHub profile.
-
-
-**TEXT CHANNEL RULES**
-
-You may not send NSFW, bully, harassment, or spam messages.
-You also may not advertise; strictly keep this on topic to let developers be focused on their project.
