@@ -1,2 +1,2 @@
-Participants are for this team:
+Participant(s) are for this team:
 https://github.com/niamulhq and https://github.com/Astrovivid
