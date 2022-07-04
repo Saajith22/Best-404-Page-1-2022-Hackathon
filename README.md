@@ -1,4 +1,2 @@
-Participants:
-
-https://github.com/niamulhq
-https://github.com/Astrovivid
+Participants are for this team:
+https://github.com/niamulhq and https://github.com/Astrovivid
