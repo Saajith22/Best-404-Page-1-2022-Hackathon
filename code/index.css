@@ -5,8 +5,9 @@
   color: balck;
 }
 
-html, body {
-    min-height: 100%;
+html,
+body {
+  min-height: 100%;
 }
 
 body {
@@ -16,10 +17,17 @@ body {
   ) !important;
 }
 
+div {
+  width: max-content;
+  margin: auto;
+}
+
 h1 {
-  color: rgb(229, 19, 19);
-  font-size: 80px;
+  color: rgb(202, 49, 49);
+  font-size: 60px;
   text-shadow: 4px 4px 4px black;
+  transition: opacity 3s ease;
+  opacity: 10%;
 }
 
 .button {
@@ -27,6 +35,12 @@ h1 {
   background: rgba(22, 125, 235, 0.501);
   color: black;
   font-size: xx-large;
+}
+
+img {
+  width: 250px;
+  height: 250px;
+  transition: transform 2s ease-in;
 }
 
 .button:hover {
